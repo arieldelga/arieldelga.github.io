@@ -1,0 +1,20 @@
+{
+  "name": "proyects",
+  "version": "1.0.0",
+  "description": "Welcome 👾",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arieldelga/proyects.git"
+  },
+  "author": "Ariel Delgadillo <arieldelgadillo444@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arieldelga/proyects/issues"
+  },
+  "homepage": "https://github.com/arieldelga/proyects#readme"
+}
