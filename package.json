@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/arieldelga/proyects/issues"
   },
+  "engines": {
+    "node": "16.x"
+  },
   "homepage": "https://github.com/arieldelga/proyects#readme"
 }
